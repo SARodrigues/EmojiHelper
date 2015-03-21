@@ -1,0 +1,12 @@
+Started: 2015/03/21 16:10:05
+----------------------------
+
+    1 |  cadela contente
+    2 |  calote candente
+    3 |  ceando lactente
+    4 |  cloaca tendente
+    5 |  coleta candente
+
+----------------------------
+Ended: 2015/03/21 16:10:11
+
